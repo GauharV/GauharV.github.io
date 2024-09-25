@@ -11,6 +11,6 @@ I created my github account, created a respositiry and cloned it, downloaded the
 - History
 - Cooking
 ### The Websites I recommend
-[9movies]-[9movies.top-](https://9movies.top/)- I can watch any movie or tv show here including past or present 
-[Streameast]-[streameast.com](https://the.streameast.app/v78)- I can watch all of football gameson this site so I don't need to pay for cable or other things
+- [9movies]-[9movies.top-](https://9movies.top/)- I can watch any movie or tv show here including past or present 
+- [Streameast]-[streameast.com](https://the.streameast.app/v78)- I can watch all of football gameson this site so I don't need to pay for cable or other things
 
